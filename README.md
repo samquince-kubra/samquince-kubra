@@ -1,6 +1,7 @@
 ## Conditions I like to work in
 - Working independently, but with other people around
 - Heads down time in the morning, meetings in the afternoon (when possible)
+- A clean, organized space
 
 ## Times / hours I like to work
 - 🕛 9 AM - 5 PM (MST/AZ, UTC -7)
@@ -26,7 +27,7 @@
 - Independent time to really look a problem and gather questions,
   followed by a one on one session with the opportunity to demonstrate ideas 
   and get clarification 
-- Videoideo tutorials
+- Video tutorials
 
 
 ## I struggle the most with
